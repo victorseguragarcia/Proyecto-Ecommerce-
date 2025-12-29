@@ -5,23 +5,17 @@ Plataforma de comercio electrónico full-stack con sistema de autenticación, ge
 ## Capturas de Pantalla
 
 ````carousel
-![Página Principal - Hero Section con TechStore](<img width="1249" height="1277" alt="image" src="https://github.com/user-attachments/assets/c6fbfb38-ee67-422c-b0c4-c6da1fb8ab6c" />
-)
+![Página Principal - Hero Section con TechStore](https://github.com/user-attachments/assets/c6fbfb38-ee67-422c-b0c4-c6da1fb8ab6c)
 <!-- slide -->
-![Catálogo de Productos - Vista de categorías con periféricos](<img width="1249" height="1277" alt="image" src="https://github.com/user-attachments/assets/b4ec6fb8-fabe-4459-ac42-5777a9565740" />
-)
+![Catálogo de Productos - Vista de categorías con periféricos](https://github.com/user-attachments/assets/b4ec6fb8-fabe-4459-ac42-5777a9565740)
 <!-- slide -->
-![Detalle de Producto - Información completa del producto](<img width="1249" height="1277" alt="image" src="https://github.com/user-attachments/assets/31bd2677-236e-48f9-ab2c-2f8a064141d6" />
-)
+![Detalle de Producto - Información completa del producto](https://github.com/user-attachments/assets/31bd2677-236e-48f9-ab2c-2f8a064141d6)
 <!-- slide -->
-![Inicio de Sesión - Formulario de login](<img width="1249" height="1277" alt="image" src="https://github.com/user-attachments/assets/0883f0fb-67d3-4869-a1dc-34bc9f82585b" />
-)
+![Inicio de Sesión - Formulario de login](https://github.com/user-attachments/assets/0883f0fb-67d3-4869-a1dc-34bc9f82585b)
 <!-- slide -->
-![Registro - Formulario de registro de nuevos usuarios](<img width="1249" height="1277" alt="image" src="https://github.com/user-attachments/assets/db5af371-caf8-4c9c-86e8-418cfd7844ce" />
-)
+![Registro - Formulario de registro de nuevos usuarios](https://github.com/user-attachments/assets/db5af371-caf8-4c9c-86e8-418cfd7844ce)
 <!-- slide -->
-![Panel de Administración - Gestión de productos](<img width="1249" height="1277" alt="image" src="https://github.com/user-attachments/assets/c6e925c3-5194-48b1-ba03-6491e66fc1b9" />
-)
+![Panel de Administración - Gestión de productos](https://github.com/user-attachments/assets/c6e925c3-5194-48b1-ba03-6491e66fc1b9)
 ````
 
 ## Características
