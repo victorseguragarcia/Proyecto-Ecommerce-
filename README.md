@@ -15,7 +15,7 @@ Plataforma de comercio electrónico full-stack con sistema de autenticación, ge
 <!-- slide -->
 ![Registro - Formulario de registro de nuevos usuarios](https://github.com/user-attachments/assets/db5af371-caf8-4c9c-86e8-418cfd7844ce)
 <!-- slide -->
-![Panel de Administración - Gestión de productos](https://github.com/user-attachments/assets/c6e925c3-5194-48b1-ba03-6491e66fc1b9)
+![Panel de Administración - Gestión de productos]https://github.com/user-attachments/assets/c6e925c3-5194-48b1-ba03-6491e66fc1b9
 ````
 
 ## Características
