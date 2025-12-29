@@ -2,6 +2,22 @@
 
 Plataforma de comercio electrónico full-stack con sistema de autenticación, gestión de productos, carrito de compras y panel de administración.
 
+## Capturas de Pantalla
+
+````carousel
+![Página Principal - Hero Section con TechStore](./screenshots/homepage.png)
+<!-- slide -->
+![Catálogo de Productos - Vista de categorías con periféricos](./screenshots/catalog.png)
+<!-- slide -->
+![Detalle de Producto - Información completa del producto](./screenshots/product_detail.png)
+<!-- slide -->
+![Inicio de Sesión - Formulario de login](./screenshots/login.png)
+<!-- slide -->
+![Registro - Formulario de registro de nuevos usuarios](./screenshots/register.png)
+<!-- slide -->
+![Panel de Administración - Gestión de productos](./screenshots/admin.png)
+````
+
 ## Características
 
 ### Para Usuarios
@@ -110,8 +126,53 @@ Después de ejecutar los scripts de seed, tendrás estos usuarios disponibles:
 - Contraseña: `admin123`
 
 **Usuario Regular:**
-- Email: `user@example.com`
+- Email: `usuario@techstore.com`
 - Contraseña: `user123`
+
+## Seeds (Datos de Prueba)
+
+El proyecto incluye dos scripts para poblar la base de datos con datos de prueba. Es recomendable ejecutarlos después de la instalación inicial.
+
+### seed_users.py
+
+Crea usuarios de prueba con diferentes roles:
+
+**Administradores:**
+- `admin@techstore.com` / `admin123` (Administrador principal)
+- `mod@techstore.com` / `mod123` (Moderador)
+
+**Usuarios Normales:**
+- `usuario@techstore.com` / `user123`
+- `maria@example.com` / `maria123`
+- `juan@example.com` / `juan123`
+
+```bash
+cd backend
+python seed_users.py
+```
+
+### seed_products.py
+
+Genera 80 productos de prueba distribuidos en 4 categorías:
+
+- **Laptops** (20 productos): Dell, HP, Lenovo, Asus, MSI, Apple
+- **Tarjetas Gráficas** (20 productos): NVIDIA, AMD, ASUS, Gigabyte
+- **Procesadores** (20 productos): Intel Core i9/i7, AMD Ryzen 9/7
+- **Periféricos** (20 productos): Logitech, Razer, Corsair, HyperX
+
+Cada producto incluye:
+- Nombre descriptivo con marca y modelo
+- Precio aleatorio entre $50 - $3000
+- Stock aleatorio entre 0 - 50 unidades
+- Imagen de Unsplash
+- Descripción generada automáticamente
+
+```bash
+cd backend
+python seed_products.py
+```
+
+> **Nota:** Los scripts verifican si los datos ya existen para evitar duplicados. Puedes ejecutarlos múltiples veces de forma segura.
 
 ## Estructura del Proyecto
 
