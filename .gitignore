@@ -1,0 +1,94 @@
+# ===================================
+# Python / Flask Backend
+# ===================================
+
+# Virtual Environment
+backend/venv/
+backend/env/
+backend/ENV/
+backend/.venv/
+*.pyc
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Flask
+backend/instance/
+backend/.webassets-cache
+
+# Database
+*.db
+*.sqlite
+*.sqlite3
+
+# Environment variables
+backend/.env
+backend/.env.local
+backend/.flaskenv
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+backend/logs/
+*.log.*
+
+# ===================================
+# Node.js / React / Vite Frontend
+# ===================================
+
+# Dependencies
+frontend/node_modules/
+frontend/package-lock.json
+frontend/yarn.lock
+frontend/pnpm-lock.yaml
+
+# Build output
+frontend/dist/
+frontend/build/
+frontend/.next/
+
+# Environment variables
+frontend/.env
+frontend/.env.local
+frontend/.env.production
+frontend/.env.development.local
+frontend/.env.test.local
+frontend/.env.production.local
+
+# Vite
+frontend/.vite/
+frontend/vite.config.js.timestamp-*
+
+# Cache
+frontend/.cache/
+frontend/.parcel-cache/
+
+# Testing
+frontend/coverage/
+
+# ===================================
+# General
+# ===================================
+
+# Temporary files
+*.tmp
+*.temp
+.tmp/
+
+# Backup files
+*.bak
+*.backup
+
+# Uploads (if you have user uploads)
+backend/uploads/
+frontend/public/uploads/
