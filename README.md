@@ -278,9 +278,6 @@ VITE_API_URL=http://localhost:5000
 
 Este proyecto está bajo la Licencia MIT.
 
-## Autor
-
-Tu Nombre - [GitHub](https://github.com/tu-usuario)
 
 ## Agradecimientos
 
