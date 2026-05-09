@@ -4,7 +4,7 @@ Plataforma de comercio electrónico full-stack con sistema de autenticación, ge
 
 ## Capturas de Pantalla
 
-## 📱 TechStore – Screenshots
+## TechStore – Screenshots
 
 | Vista | Imagen |
 |-----|-------|
